@@ -1,0 +1,1 @@
+only the arduino GFX examples load and run. all others compile and load to the device but nothing displays. Checked the TFT _eSPI setup and using setup214. 
